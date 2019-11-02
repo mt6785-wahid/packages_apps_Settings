@@ -668,4 +668,8 @@
     <string name="search">Search</string>
     <string name="search_apps">Search apps</string>
     <string name="application_icon">Application icon</string>
+
+    <!-- Pulse on music track change -->
+    <string name="pulse_on_new_tracks_title">Music ticker</string>
+    <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
 </resources>
